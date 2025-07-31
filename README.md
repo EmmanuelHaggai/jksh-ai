@@ -1,4 +1,4 @@
-# JengaKsh Financial AI – Smart Finance for Rural Africa
+# JengaKsh Financial AI - Smart Finance for Rural Africa
 
 JengaKsh (JKSH AI) addresses Africa's unique financial inclusion challenges by using low-power, efficient technology. It's a WhatsApp-based financial assistant that helps users make smart money decisions.. even in areas with limited internet, low-cost devices, and high data costs.
 
@@ -75,6 +75,6 @@ JKSH AI brings reliable financial help to users through WhatsApp — no app down
 
 ## 📄 License
 
-MIT – open source and built for Africa’s future.
+MIT - open source and built for Africa’s future.
 
 **Built with Rust, WhatsApp, PostgreSQL, Docker, and a lot of care for the continent.**# jksh-ai
